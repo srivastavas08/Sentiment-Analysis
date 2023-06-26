@@ -1,7 +1,7 @@
 # Sentiment-Analysis
 This project is a sentiment analysis of 50K IMDB movie reviews. The dataset was obtained from Kaggle. Three models were used to perform the sentiment analysis: Multinomial Naive Bayes, Logistic Regression, and Support Vector Classifier. The accuracy of the models was as follows:
 
-        Multinomial Naive Bayes: 78.5%
+        Multinomial Naive Bayes: 73%
         Logistic Regression: 68%
         Support Vector Classifier: 50%
 
@@ -11,7 +11,7 @@ The results of the project show that Multinomial Naive Bayes is the most accurat
 
 Conclusion
 
-The results of this project demonstrate that sentiment analysis can be used to effectively analyze IMDB movie reviews. The models used in this project were able to achieve an accuracy of up to 87.5%, which is a significant improvement over random guessing. This suggests that sentiment analysis can be a valuable tool for businesses and organizations that want to understand how people feel about their products or services.
+The results of this project demonstrate that sentiment analysis can be used to effectively analyze IMDB movie reviews. The models used in this project were able to achieve an accuracy of up to 73%, which is a significant improvement over random guessing. This suggests that sentiment analysis can be a valuable tool for businesses and organizations that want to understand how people feel about their products or services.
 
 Future Work
 
